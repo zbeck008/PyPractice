@@ -4,7 +4,7 @@ import sys
 
 def main(argv):
     if len(argv) != 1:
-        sys.exit('Usage: calc_pi.py <n>')
+        sys.exit('Usage: calc_pi.py')
 
     print('\nComputing Pi v.01\n')
 
