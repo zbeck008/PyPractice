@@ -1,2 +1,0 @@
-# PyPractice
-Practice learning Python
